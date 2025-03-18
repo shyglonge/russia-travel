@@ -1,5 +1,5 @@
 # Проект: Путешествие по России
-Демо на github Pages https://shyglonge.github.io/russian-travel/ 
+Демо на github Pages https://shyglonge.github.io/russia-travel/ 
 
 ## Описание проекта
 Учебный проект [Yandex Практикум](https://praktikum.yandex.ru/web/ "Курс Веб-разработчик") - одностраничный сайт с адаптивным дизайном про внутренний туризм в России
